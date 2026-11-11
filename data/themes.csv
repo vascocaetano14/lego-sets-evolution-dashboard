@@ -1,0 +1,543 @@
+node_id,name,parent_id,root_id,depth,is_general,path,n_children
+0,All themes,,,-1,False,All themes,150
+1,Technic,0,1,0,False,Technic,9
+100001,Technic (general),1,1,1,True,Technic > Technic (general),0
+3,Competition,1,1,1,False,Technic > Competition,0
+4,Expert Builder,1,1,1,False,Technic > Expert Builder,0
+16,RoboRiders,1,1,1,False,Technic > RoboRiders,0
+17,Speed Slammers,1,1,1,False,Technic > Speed Slammers,0
+18,Star Wars,1,1,1,False,Technic > Star Wars,0
+19,Supplemental,1,1,1,False,Technic > Supplemental,0
+20,Throwbot Slizer,1,1,1,False,Technic > Throwbot Slizer,0
+21,Universal Building Set,1,1,1,False,Technic > Universal Building Set,0
+22,Creator,0,22,0,False,Creator,7
+100022,Creator (general),22,22,1,True,Creator > Creator (general),0
+34,Make & Create,0,34,0,False,Make & Create,2
+100034,Make & Create (general),34,34,1,True,Make & Create > Make & Create (general),0
+35,Bricks & More,34,34,1,False,Make & Create > Bricks & More,0
+50,Town,0,50,0,False,Town,15
+100050,Town (general),50,50,1,True,Town > Town (general),0
+51,Arctic,50,50,1,False,Town > Arctic,0
+52,City,0,52,0,False,City,18
+100052,City (general),52,52,1,True,City > City (general),0
+53,Airport,52,52,1,False,City > Airport,0
+54,Cargo,52,52,1,False,City > Cargo,0
+55,Coast Guard,52,52,1,False,City > Coast Guard,0
+56,Construction,52,52,1,False,City > Construction,0
+57,Farm,52,52,1,False,City > Farm,0
+58,Fire,52,52,1,False,City > Fire,0
+59,Harbor,52,52,1,False,City > Harbor,0
+60,Hospital,52,52,1,False,City > Hospital,0
+61,Police,52,52,1,False,City > Police,0
+63,Traffic,52,52,1,False,City > Traffic,0
+64,Off-Road,52,52,1,False,City > Off-Road,0
+65,Arctic,52,52,1,False,City > Arctic,0
+66,Trains,52,52,1,False,City > Trains,0
+67,Classic Town,50,50,1,False,Town > Classic Town,0
+86,Divers,50,50,1,False,Town > Divers,0
+87,Extreme Team,50,50,1,False,Town > Extreme Team,0
+88,Launch Command,50,50,1,False,Town > Launch Command,0
+89,Outback,50,50,1,False,Town > Outback,0
+90,Paradisa,50,50,1,False,Town > Paradisa,0
+91,Race,50,50,1,False,Town > Race,0
+92,Res-Q,50,50,1,False,Town > Res-Q,0
+93,Space Port,50,50,1,False,Town > Space Port,0
+94,Town Jr.,50,50,1,False,Town > Town Jr.,0
+104,Town Plan,50,50,1,False,Town > Town Plan,0
+105,World City,50,50,1,False,Town > World City,0
+106,City Center,50,50,1,False,Town > City Center,0
+112,Racers,0,112,0,False,Racers,5
+100112,Racers (general),112,112,1,True,Racers > Racers (general),0
+114,Ferrari,112,112,1,False,Racers > Ferrari,0
+118,Promotional,112,112,1,False,Racers > Promotional,0
+122,RC,112,112,1,False,Racers > RC,0
+123,World Racers,112,112,1,False,Racers > World Racers,0
+126,Space,0,126,0,False,Space,21
+100126,Space (general),126,126,1,True,Space > Space (general),0
+127,Alien Conquest,126,126,1,False,Space > Alien Conquest,0
+128,Blacktron I,126,126,1,False,Space > Blacktron I,0
+129,Blacktron II,126,126,1,False,Space > Blacktron II,0
+130,Classic Space,126,126,1,False,Space > Classic Space,0
+131,Exploriens,126,126,1,False,Space > Exploriens,0
+132,Futuron,126,126,1,False,Space > Futuron,0
+133,Ice Planet 2002,126,126,1,False,Space > Ice Planet 2002,0
+134,Insectoids,126,126,1,False,Space > Insectoids,0
+135,Life On Mars,126,126,1,False,Space > Life On Mars,0
+136,M:Tron,126,126,1,False,Space > M:Tron,0
+137,Mars Mission,126,126,1,False,Space > Mars Mission,0
+138,RoboForce,126,126,1,False,Space > RoboForce,0
+139,Space Police I,126,126,1,False,Space > Space Police I,0
+140,Space Police II,126,126,1,False,Space > Space Police II,0
+141,Space Police III,126,126,1,False,Space > Space Police III,0
+142,Spyrius,126,126,1,False,Space > Spyrius,0
+143,Supplemental,126,126,1,False,Space > Supplemental,0
+144,UFO,126,126,1,False,Space > UFO,0
+145,Unitron,126,126,1,False,Space > Unitron,0
+146,Galaxy Squad,126,126,1,False,Space > Galaxy Squad,0
+147,Pirates,0,147,0,False,Pirates,4
+100147,Pirates (general),147,147,1,True,Pirates > Pirates (general),0
+148,Pirates I,147,147,1,False,Pirates > Pirates I,0
+153,Pirates II,147,147,1,False,Pirates > Pirates II,0
+154,Pirates III,147,147,1,False,Pirates > Pirates III,0
+155,Modular Buildings,0,155,0,False,Modular Buildings,2
+100155,Modular Buildings (general),155,155,1,True,Modular Buildings > Modular Buildings (general),0
+156,Mini,155,155,1,False,Modular Buildings > Mini,0
+157,Bricktober,598,598,1,False,Promotional > Bricktober,0
+598,Promotional,0,598,0,False,Promotional,6
+158,Star Wars,0,158,0,False,Star Wars,2
+100158,Star Wars (general),158,158,1,True,Star Wars > Star Wars (general),0
+171,Ultimate Collector Series,158,158,1,False,Star Wars > Ultimate Collector Series,0
+186,Castle,0,186,0,False,Castle,15
+100186,Castle (general),186,186,1,True,Castle > Castle (general),0
+187,Black Falcons,186,186,1,False,Castle > Black Falcons,0
+188,Black Knights,186,186,1,False,Castle > Black Knights,0
+189,Classic Castle,186,186,1,False,Castle > Classic Castle,0
+190,Dragon Knights,186,186,1,False,Castle > Dragon Knights,0
+191,Dark Forest,186,186,1,False,Castle > Dark Forest,0
+193,Fantasy Era,186,186,1,False,Castle > Fantasy Era,0
+194,Forestmen,186,186,1,False,Castle > Forestmen,0
+195,Fright Knights,186,186,1,False,Castle > Fright Knights,0
+196,Kingdoms,186,186,1,False,Castle > Kingdoms,0
+197,Knights Kingdom I,186,186,1,False,Castle > Knights Kingdom I,0
+198,Knights Kingdom II,186,186,1,False,Castle > Knights Kingdom II,0
+199,Lion Knights,186,186,1,False,Castle > Lion Knights,0
+201,Royal Knights,186,186,1,False,Castle > Royal Knights,0
+203,Wolfpack,186,186,1,False,Castle > Wolfpack,0
+204,Designer Sets,22,22,1,False,Creator > Designer Sets,0
+206,Seasonal,0,206,0,False,Seasonal,8
+100206,Seasonal (general),206,206,1,True,Seasonal > Seasonal (general),0
+207,Advent,206,206,1,False,Seasonal > Advent,13
+100207,Advent (general),207,206,2,True,Seasonal > Advent > Advent (general),0
+208,City,207,206,2,False,Seasonal > Advent > City,0
+209,Star Wars,207,206,2,False,Seasonal > Advent > Star Wars,0
+210,Belville,207,206,2,False,Seasonal > Advent > Belville,0
+211,Castle,207,206,2,False,Seasonal > Advent > Castle,0
+212,Classic Basic,207,206,2,False,Seasonal > Advent > Classic Basic,0
+213,Clikits,207,206,2,False,Seasonal > Advent > Clikits,0
+214,Creator,207,206,2,False,Seasonal > Advent > Creator,0
+215,Pirates,207,206,2,False,Seasonal > Advent > Pirates,0
+216,Friends,207,206,2,False,Seasonal > Advent > Friends,0
+227,Christmas,206,206,1,False,Seasonal > Christmas,2
+100227,Christmas (general),227,206,2,True,Seasonal > Christmas > Christmas (general),0
+228,Creator,227,206,2,False,Seasonal > Christmas > Creator,0
+229,Easter,206,206,1,False,Seasonal > Easter,0
+230,Halloween,206,206,1,False,Seasonal > Halloween,0
+231,Thanksgiving,206,206,1,False,Seasonal > Thanksgiving,0
+232,Valentine,206,206,1,False,Seasonal > Valentine,0
+234,12V,233,233,1,False,Train > 12V,0
+233,Train,0,233,0,False,Train,3
+235,4.5V,233,233,1,False,Train > 4.5V,0
+236,9V,233,233,1,False,Train > 9V,0
+246,Harry Potter,0,246,0,False,Harry Potter,2
+100246,Harry Potter (general),246,246,1,True,Harry Potter > Harry Potter (general),0
+252,Architecture,0,252,0,False,Architecture,2
+100252,Architecture (general),252,252,1,True,Architecture > Architecture (general),0
+253,Skylines,252,252,1,False,Architecture > Skylines,0
+254,Bulk Bricks,0,254,0,False,Bulk Bricks,0
+258,Mindstorms,0,258,0,False,Mindstorms,5
+100258,Mindstorms (general),258,258,1,True,Mindstorms > Mindstorms (general),0
+259,NXT,258,258,1,False,Mindstorms > NXT,0
+260,RCX,258,258,1,False,Mindstorms > RCX,0
+261,Star Wars,258,258,1,False,Mindstorms > Star Wars,0
+262,EV3,258,258,1,False,Mindstorms > EV3,0
+263,Pirates of the Caribbean,608,608,1,False,Disney > Pirates of the Caribbean,0
+608,Disney,0,608,0,False,Disney,8
+264,Indiana Jones,0,264,0,False,Indiana Jones,0
+269,Cars,0,269,0,False,Cars,0
+270,Ben 10,0,270,0,False,Ben 10,0
+271,Prince of Persia,608,608,1,False,Disney > Prince of Persia,0
+272,SpongeBob SquarePants,0,272,0,False,SpongeBob SquarePants,0
+273,Studios,0,273,0,False,Studios,2
+100273,Studios (general),273,273,1,True,Studios > Studios (general),0
+274,Jurassic Park III,273,273,1,False,Studios > Jurassic Park III,0
+275,Toy Story,608,608,1,False,Disney > Toy Story,0
+276,Sculptures,0,276,0,False,Sculptures,2
+100276,Sculptures (general),276,276,1,True,Sculptures > Sculptures (general),0
+277,Mosaic,276,276,1,False,Sculptures > Mosaic,0
+278,Model Team,0,278,0,False,Model Team,0
+279,4 Juniors,0,279,0,False,4 Juniors,3
+100279,4 Juniors (general),279,279,1,True,4 Juniors > 4 Juniors (general),0
+280,Jack Stone,279,279,1,False,4 Juniors > Jack Stone,0
+287,Spider-Man,279,279,1,False,4 Juniors > Spider-Man,0
+297,Desert,296,296,1,False,Adventurers > Desert,0
+296,Adventurers,0,296,0,False,Adventurers,4
+298,Dino Island,296,296,1,False,Adventurers > Dino Island,0
+299,Jungle,296,296,1,False,Adventurers > Jungle,0
+300,Orient Expedition,296,296,1,False,Adventurers > Orient Expedition,0
+301,Other,0,301,0,False,Other,2
+100301,Other (general),301,301,1,True,Other > Other (general),0
+302,Agents,0,302,0,False,Agents,2
+100302,Agents (general),302,302,1,True,Agents > Agents (general),0
+303,Ultra Agents,302,302,1,False,Agents > Ultra Agents,0
+304,Alpha Team,0,304,0,False,Alpha Team,3
+100304,Alpha Team (general),304,304,1,True,Alpha Team > Alpha Team (general),0
+305,Mission Deep Sea,304,304,1,False,Alpha Team > Mission Deep Sea,0
+306,Mission Deep Freeze,304,304,1,False,Alpha Team > Mission Deep Freeze,0
+307,Aquazone,0,307,0,False,Aquazone,7
+100307,Aquazone (general),307,307,1,True,Aquazone > Aquazone (general),0
+308,Aquanauts,307,307,1,False,Aquazone > Aquanauts,0
+309,Aquaraiders I,307,307,1,False,Aquazone > Aquaraiders I,0
+310,Aquaraiders II,307,307,1,False,Aquazone > Aquaraiders II,0
+311,Aquasharks,307,307,1,False,Aquazone > Aquasharks,0
+312,Hydronauts,307,307,1,False,Aquazone > Hydronauts,0
+313,Stingrays,307,307,1,False,Aquazone > Stingrays,0
+315,Atlantis,0,315,0,False,Atlantis,0
+317,Avatar: The Last Airbender,0,317,0,False,Avatar: The Last Airbender,0
+318,Belville,0,318,0,False,Belville,0
+324,Bionicle,0,324,0,False,Bionicle,3
+100324,Bionicle (general),324,324,1,True,Bionicle > Bionicle (general),0
+341,Playsets,324,324,1,False,Bionicle > Playsets,0
+360,Protectors,324,324,1,False,Bionicle > Protectors,0
+363,Boat,0,363,0,False,Boat,0
+364,Building Set with People,0,364,0,False,Building Set with People,0
+365,System,0,365,0,False,System,6
+100365,System (general),365,365,1,True,System > System (general),0
+368,HO 1:87 Vehicles,365,365,1,False,System > HO 1:87 Vehicles,0
+369,Jumbo Bricks,365,365,1,False,System > Jumbo Bricks,0
+371,Supplemental,365,365,1,False,System > Supplemental,0
+372,Town Plan,365,365,1,False,System > Town Plan,0
+385,Dino Attack / Dino 2010,0,385,0,False,Dino Attack / Dino 2010,0
+386,Dinosaurs,0,386,0,False,Dinosaurs,0
+387,Discovery,0,387,0,False,Discovery,0
+388,Mickey Mouse,608,608,1,False,Disney > Mickey Mouse,0
+389,Exo-Force,0,389,0,False,Exo-Force,0
+390,Fabuland,0,390,0,False,Fabuland,0
+397,Factory,0,397,0,False,Factory,0
+398,FIRST LEGO League,0,398,0,False,FIRST LEGO League,0
+399,Freestyle,0,399,0,False,Freestyle,0
+400,Hero Factory,0,400,0,False,Hero Factory,3
+100400,Hero Factory (general),400,400,1,True,Hero Factory > Hero Factory (general),0
+401,Heroes,400,400,1,False,Hero Factory > Heroes,0
+403,Villains,400,400,1,False,Hero Factory > Villains,0
+404,Hobby Sets,0,404,0,False,Hobby Sets,0
+405,Homemaker,0,405,0,False,Homemaker,0
+406,Inventor,22,22,1,False,Creator > Inventor,0
+407,Island Xtreme Stunts,0,407,0,False,Island Xtreme Stunts,0
+408,LEGO Brand Store,0,408,0,False,LEGO Brand Store,4
+100408,LEGO Brand Store (general),408,408,1,True,LEGO Brand Store > LEGO Brand Store (general),0
+409,Monthly Mini Model Build,408,408,1,False,LEGO Brand Store > Monthly Mini Model Build,0
+410,Pick A Model,408,408,1,False,LEGO Brand Store > Pick A Model,0
+412,Airport,411,411,1,False,Legoland > Airport,0
+411,Legoland,0,411,0,False,Legoland,13
+413,Building,411,411,1,False,Legoland > Building,0
+414,Castle,411,411,1,False,Legoland > Castle,0
+415,Coast Guard,411,411,1,False,Legoland > Coast Guard,0
+416,Construction,411,411,1,False,Legoland > Construction,0
+417,Fire,411,411,1,False,Legoland > Fire,0
+418,Gas Station,411,411,1,False,Legoland > Gas Station,0
+419,Harbor,411,411,1,False,Legoland > Harbor,0
+420,Hospital,411,411,1,False,Legoland > Hospital,0
+421,Police,411,411,1,False,Legoland > Police,0
+422,Space,411,411,1,False,Legoland > Space,0
+423,Vehicle,411,411,1,False,Legoland > Vehicle,0
+424,Western,411,411,1,False,Legoland > Western,0
+425,Legoland Parks,0,425,0,False,Legoland Parks,0
+432,Master Builder Academy,0,432,0,False,Master Builder Academy,0
+433,Minitalia,0,433,0,False,Minitalia,0
+434,Ninja,0,434,0,False,Ninja,0
+435,Ninjago,0,435,0,False,Ninjago,2
+100435,Ninjago (general),435,435,1,True,Ninjago > Ninjago (general),0
+437,Pharaoh's Quest,0,437,0,False,Pharaoh's Quest,0
+438,Power Functions,0,438,0,False,Power Functions,2
+100438,Power Functions (general),438,438,1,True,Power Functions > Power Functions (general),0
+439,Power Miners,0,439,0,False,Power Miners,0
+440,Primo,0,440,0,False,Primo,0
+441,Quatro,0,441,0,False,Quatro,0
+442,Rock Raiders,0,442,0,False,Rock Raiders,0
+443,Service Packs,0,443,0,False,Service Packs,3
+100443,Service Packs (general),443,443,1,True,Service Packs > Service Packs (general),0
+453,Technic,443,443,1,False,Service Packs > Technic,0
+456,Train,443,443,1,False,Service Packs > Train,0
+458,Sports,0,458,0,False,Sports,5
+100458,Sports (general),458,458,1,True,Sports > Sports (general),0
+459,Basketball,458,458,1,False,Sports > Basketball,0
+460,Gravity Games,458,458,1,False,Sports > Gravity Games,0
+461,Hockey,458,458,1,False,Sports > Hockey,0
+462,Soccer,458,458,1,False,Sports > Soccer,0
+463,Spybotics,0,463,0,False,Spybotics,0
+464,Time Cruisers,0,464,0,False,Time Cruisers,0
+465,Universal Building Set,0,465,0,False,Universal Building Set,5
+100465,Universal Building Set (general),465,465,1,True,Universal Building Set > Universal Building Set (general),0
+467,Basic,465,465,1,False,Universal Building Set > Basic,0
+470,Classic Basic,465,465,1,False,Universal Building Set > Classic Basic,0
+471,Ferries,598,598,1,False,Promotional > Ferries,0
+472,Gears,465,465,1,False,Universal Building Set > Gears,0
+473,Supplemental,465,465,1,False,Universal Building Set > Supplemental,0
+474,Vikings,0,474,0,False,Vikings,0
+475,Western,0,475,0,False,Western,0
+478,X-Pod,22,22,1,False,Creator > X-Pod,0
+480,Znap,0,480,0,False,Znap,0
+481,Dino,0,481,0,False,Dino,0
+494,Friends,0,494,0,False,Friends,0
+498,Technic,497,497,1,False,Books > Technic,0
+497,Books,0,497,0,False,Books,5
+500,Clikits,0,500,0,False,Clikits,0
+501,Gear,0,501,0,False,Gear,13
+100501,Gear (general),501,501,1,True,Gear > Gear (general),0
+502,Games,0,502,0,False,Games,0
+503,Key Chain,501,501,1,False,Gear > Key Chain,0
+504,Duplo,0,504,0,False,Duplo,28
+100504,Duplo (general),504,504,1,True,Duplo > Duplo (general),0
+505,Basic Set,504,504,1,False,Duplo > Basic Set,0
+506,Cars,754,504,2,False,Duplo > Disney > Cars,0
+754,Disney,504,504,1,False,Duplo > Disney,9
+507,Educational and Dacta,0,507,0,False,Educational and Dacta,15
+100507,Educational and Dacta (general),507,507,1,True,Educational and Dacta > Educational and Dacta (general),0
+509,SPIKE,507,507,1,False,Educational and Dacta > SPIKE,0
+510,Serious Play,507,507,1,False,Educational and Dacta > Serious Play,0
+511,Building Set with People,507,507,1,False,Educational and Dacta > Building Set with People,0
+516,Duplo and Explore,507,507,1,False,Educational and Dacta > Duplo and Explore,0
+517,Learning,507,507,1,False,Educational and Dacta > Learning,0
+518,Mindstorms,507,507,1,False,Educational and Dacta > Mindstorms,4
+100518,Mindstorms (general),518,507,2,True,Educational and Dacta > Mindstorms > Mindstorms (general),0
+519,NXT,518,507,2,False,Educational and Dacta > Mindstorms > NXT,0
+520,RCX,518,507,2,False,Educational and Dacta > Mindstorms > RCX,0
+521,WeDo,518,507,2,False,Educational and Dacta > Mindstorms > WeDo,0
+523,Samsonite,507,507,1,False,Educational and Dacta > Samsonite,0
+524,Service Packs,507,507,1,False,Educational and Dacta > Service Packs,2
+100524,Service Packs (general),524,507,2,True,Educational and Dacta > Service Packs > Service Packs (general),0
+525,Technic,524,507,2,False,Educational and Dacta > Service Packs > Technic,0
+526,Soft Bricks,507,507,1,False,Educational and Dacta > Soft Bricks,0
+528,Supplemental,507,507,1,False,Educational and Dacta > Supplemental,0
+529,Technic,507,507,1,False,Educational and Dacta > Technic,3
+100529,Technic (general),529,507,2,True,Educational and Dacta > Technic > Technic (general),0
+530,Control Lab,529,507,2,False,Educational and Dacta > Technic > Control Lab,0
+531,eLAB,529,507,2,False,Educational and Dacta > Technic > eLAB,0
+533,Town,507,507,1,False,Educational and Dacta > Town,0
+534,Universal Building Set,507,507,1,False,Educational and Dacta > Universal Building Set,0
+535,Collectible Minifigures,0,535,0,False,Collectible Minifigures,53
+100535,Collectible Minifigures (general),535,535,1,True,Collectible Minifigures > Collectible Minifigures (general),0
+536,Series 1 Minifigures,535,535,1,False,Collectible Minifigures > Series 1 Minifigures,0
+537,Series 2 Minifigures,535,535,1,False,Collectible Minifigures > Series 2 Minifigures,0
+538,Series 3 Minifigures,535,535,1,False,Collectible Minifigures > Series 3 Minifigures,0
+539,Series 4 Minifigures,535,535,1,False,Collectible Minifigures > Series 4 Minifigures,0
+540,Series 5 Minifigures,535,535,1,False,Collectible Minifigures > Series 5 Minifigures,0
+541,Series 6 Minifigures,535,535,1,False,Collectible Minifigures > Series 6 Minifigures,0
+542,Series 7 Minifigures,535,535,1,False,Collectible Minifigures > Series 7 Minifigures,0
+543,Series 8 Minifigures,535,535,1,False,Collectible Minifigures > Series 8 Minifigures,0
+544,Series 9 Minifigures,535,535,1,False,Collectible Minifigures > Series 9 Minifigures,0
+545,Series 10 Minifigures,535,535,1,False,Collectible Minifigures > Series 10 Minifigures,0
+546,Team GB,535,535,1,False,Collectible Minifigures > Team GB,0
+547,Series 11 Minifigures,535,535,1,False,Collectible Minifigures > Series 11 Minifigures,0
+548,Series 12 Minifigures,535,535,1,False,Collectible Minifigures > Series 12 Minifigures,0
+549,The LEGO Movie,535,535,1,False,Collectible Minifigures > The LEGO Movie,0
+550,The Simpsons Series 1,535,535,1,False,Collectible Minifigures > The Simpsons Series 1,0
+551,Series 13 Minifigures,535,535,1,False,Collectible Minifigures > Series 13 Minifigures,0
+552,Series 14 Minifigures,535,535,1,False,Collectible Minifigures > Series 14 Minifigures,0
+553,The Simpsons Series 2,535,535,1,False,Collectible Minifigures > The Simpsons Series 2,0
+554,Series 15 Minifigures,535,535,1,False,Collectible Minifigures > Series 15 Minifigures,0
+555,Disney Series 1,535,535,1,False,Collectible Minifigures > Disney Series 1,0
+556,Series 16 Minifigures,535,535,1,False,Collectible Minifigures > Series 16 Minifigures,0
+557,DFB Minifigures,535,535,1,False,Collectible Minifigures > DFB Minifigures,0
+558,Monster Fighters,0,558,0,False,Monster Fighters,0
+559,Value Packs,0,559,0,False,Value Packs,0
+560,Universe,0,560,0,False,Universe,0
+561,The Hobbit and Lord of the Rings,0,561,0,False,The Hobbit and Lord of the Rings,3
+100561,The Hobbit and Lord of the Rings (general),561,561,1,True,The Hobbit and Lord of the Rings > The Hobbit and Lord of the Rings (general),0
+562,The Hobbit,561,561,1,False,The Hobbit and Lord of the Rings > The Hobbit,0
+566,The Lord of the Rings,561,561,1,False,The Hobbit and Lord of the Rings > The Lord of the Rings,0
+570,Teenage Mutant Ninja Turtles,0,570,0,False,Teenage Mutant Ninja Turtles,0
+571,Legends of Chima,0,571,0,False,Legends of Chima,3
+100571,Legends of Chima (general),571,571,1,True,Legends of Chima > Legends of Chima (general),0
+572,Speedorz,571,571,1,False,Legends of Chima > Speedorz,0
+573,Constraction,571,571,1,False,Legends of Chima > Constraction,0
+575,The Lone Ranger,0,575,0,False,The Lone Ranger,0
+576,LEGO Ideas and CUUSOO,0,576,0,False,LEGO Ideas and CUUSOO,0
+577,Minecraft,0,577,0,False,Minecraft,0
+578,The LEGO Movie,0,578,0,False,The LEGO Movie,2
+100578,The LEGO Movie (general),578,578,1,True,The LEGO Movie > The LEGO Movie (general),0
+579,Disney Princess,608,608,1,False,Disney > Disney Princess,0
+580,Mixels,0,580,0,False,Mixels,0
+590,Fusion,0,590,0,False,Fusion,0
+591,Juniors,0,591,0,False,Juniors,9
+100591,Juniors (general),591,591,1,True,Juniors > Juniors (general),0
+592,DC Comics Super Heroes,591,591,1,False,Juniors > DC Comics Super Heroes,0
+593,Disney Princess,591,591,1,False,Juniors > Disney Princess,0
+595,Friends,591,591,1,False,Juniors > Friends,0
+596,Marvel Super Heroes,591,591,1,False,Juniors > Marvel Super Heroes,0
+597,Ninjago,591,591,1,False,Juniors > Ninjago,0
+100598,Promotional (general),598,598,1,True,Promotional > Promotional (general),0
+599,LEGO Exclusive,0,599,0,False,LEGO Exclusive,0
+600,Elves,0,600,0,False,Elves,0
+601,Speed Champions,0,601,0,False,Speed Champions,0
+602,Jurassic World,0,602,0,False,Jurassic World,0
+603,Scooby-Doo,0,603,0,False,Scooby-Doo,0
+604,Dimensions,0,604,0,False,Dimensions,0
+605,Nexo Knights,0,605,0,False,Nexo Knights,0
+606,Angry Birds,0,606,0,False,Angry Birds,0
+607,Ghostbusters,0,607,0,False,Ghostbusters,0
+100608,Disney (general),608,608,1,True,Disney > Disney (general),0
+609,The LEGO Batman Movie Series 1,535,535,1,False,Collectible Minifigures > The LEGO Batman Movie Series 1,0
+610,Brickheadz,0,610,0,False,Brickheadz,0
+611,Series 17 Minifigures,535,535,1,False,Collectible Minifigures > Series 17 Minifigures,0
+614,Jungle,52,52,1,False,City > Jungle,0
+615,Cars,591,591,1,False,Juniors > Cars,0
+616,The LEGO Ninjago Movie,435,435,1,False,Ninjago > The LEGO Ninjago Movie,0
+617,DC Super Hero Girls,0,617,0,False,DC Super Hero Girls,0
+618,The LEGO Ninjago Movie,535,535,1,False,Collectible Minifigures > The LEGO Ninjago Movie,0
+619,Cities of Wonders,408,408,1,False,LEGO Brand Store > Cities of Wonders,0
+620,Jurassic World: Fallen Kingdom,591,591,1,False,Juniors > Jurassic World: Fallen Kingdom,0
+621,Classic,0,621,0,False,Classic,0
+622,Series 18 Minifigures,535,535,1,False,Collectible Minifigures > Series 18 Minifigures,0
+625,Unikitty!,0,625,0,False,Unikitty!,0
+626,Bob the Builder,504,504,1,False,Duplo > Bob the Builder,0
+627,Planes,754,504,2,False,Duplo > Disney > Planes,0
+628,Dora the Explorer,504,504,1,False,Duplo > Dora the Explorer,0
+629,Miles From Tomorrowland,754,504,2,False,Duplo > Disney > Miles From Tomorrowland,0
+630,Marvel,504,504,1,False,Duplo > Marvel,0
+631,Thomas & Friends,504,504,1,False,Duplo > Thomas & Friends,0
+632,Town,504,504,1,False,Duplo > Town,3
+100632,Town (general),632,504,2,True,Duplo > Town > Town (general),0
+633,Toy Story,754,504,2,False,Duplo > Disney > Toy Story,0
+634,Trains,504,504,1,False,Duplo > Trains,0
+635,Winnie the Pooh,754,504,2,False,Duplo > Disney > Winnie the Pooh,0
+636,My Town,632,504,2,False,Duplo > Town > My Town,0
+638,Jake and the Never Land Pirates,754,504,2,False,Duplo > Disney > Jake and the Never Land Pirates,0
+639,Sofia the First,504,504,1,False,Duplo > Sofia the First,0
+640,Disney Princess,754,504,2,False,Duplo > Disney > Disney Princess,0
+641,Mickey & Friends,754,504,2,False,Duplo > Disney > Mickey & Friends,0
+646,Xtra,0,646,0,False,Xtra,0
+647,Castle,504,504,1,False,Duplo > Castle,0
+648,Doc McStuffins,754,504,2,False,Duplo > Disney > Doc McStuffins,0
+650,Legoville,632,504,2,False,Duplo > Town > Legoville,0
+651,Pirates,504,504,1,False,Duplo > Pirates,0
+652,Playhouse,504,504,1,False,Duplo > Playhouse,0
+653,DC Comics,504,504,1,False,Duplo > DC Comics,0
+654,The Powerpuff Girls,0,654,0,False,The Powerpuff Girls,0
+655,Powered Up,438,438,1,False,Power Functions > Powered Up,0
+656,Harry Potter and Fantastic Beasts Series 1,535,535,1,False,Collectible Minifigures > Harry Potter and Fantastic Beasts Series 1,0
+657,Action Wheelers,504,504,1,False,Duplo > Action Wheelers,0
+658,Dino,504,504,1,False,Duplo > Dino,0
+659,Dolls,504,504,1,False,Duplo > Dolls,0
+660,Little Forest Friends,504,504,1,False,Duplo > Little Forest Friends,0
+661,Little Robots,504,504,1,False,Duplo > Little Robots,0
+662,Princess Castle,504,504,1,False,Duplo > Princess Castle,0
+663,Rattles,504,504,1,False,Duplo > Rattles,0
+664,Toolo,504,504,1,False,Duplo > Toolo,0
+665,Western,504,504,1,False,Duplo > Western,0
+666,Zooters,504,504,1,False,Duplo > Zooters,0
+667,Fantastic Beasts,246,246,1,False,Harry Potter > Fantastic Beasts,0
+668,Scala,0,668,0,False,Scala,0
+669,Overwatch,0,669,0,False,Overwatch,0
+670,The LEGO Movie II,578,578,1,False,The LEGO Movie > The LEGO Movie II,0
+671,Forma,0,671,0,False,Forma,0
+672,Creator 3-in-1,22,22,1,False,Creator > Creator 3-in-1,0
+673,Creator Expert,22,22,1,False,Creator > Creator Expert,0
+674,Early Creator,22,22,1,False,Creator > Early Creator,0
+675,The LEGO Movie II,535,535,1,False,Collectible Minifigures > The LEGO Movie II,0
+676,Hidden Side,0,676,0,False,Hidden Side,0
+677,Disney Series 2,535,535,1,False,Collectible Minifigures > Disney Series 2,0
+679,Mars Exploration,52,52,1,False,City > Mars Exploration,0
+680,Stranger Things,0,680,0,False,Stranger Things,0
+681,Series 19 Minifigures,535,535,1,False,Collectible Minifigures > Series 19 Minifigures,0
+682,Trolls: World Tour,0,682,0,False,Trolls: World Tour,0
+683,LEGO Originals,0,683,0,False,LEGO Originals,0
+684,DC Super Heroes,535,535,1,False,Collectible Minifigures > DC Super Heroes,0
+685,Galidor,0,685,0,False,Galidor,0
+686,Chinese Traditional Festivals,0,686,0,False,Chinese Traditional Festivals,0
+687,Frozen,608,608,1,False,Disney > Frozen,0
+688,DOTS,0,688,0,False,DOTS,0
+689,Minions,0,689,0,False,Minions,0
+690,Super Mario,0,690,0,False,Super Mario,0
+691,Harry Potter and Fantastic Beasts Series 2,535,535,1,False,Collectible Minifigures > Harry Potter and Fantastic Beasts Series 2,0
+692,Series 20 Minifigures,535,535,1,False,Collectible Minifigures > Series 20 Minifigures,0
+693,Monkie Kid,0,693,0,False,Monkie Kid,0
+694,Brick Sketches,0,694,0,False,Brick Sketches,0
+695,Super Heroes DC,0,695,0,False,Super Heroes DC,4
+100695,Super Heroes DC (general),695,695,1,True,Super Heroes DC > Super Heroes DC (general),0
+696,Super Heroes Marvel,0,696,0,False,Super Heroes Marvel,8
+100696,Super Heroes Marvel (general),696,696,1,True,Super Heroes Marvel > Super Heroes Marvel (general),0
+697,Batman,695,695,1,False,Super Heroes DC > Batman,3
+100697,Batman (general),697,695,2,True,Super Heroes DC > Batman > Batman (general),0
+698,UCS,697,695,2,False,Super Heroes DC > Batman > UCS,0
+700,Justice League,695,695,1,False,Super Heroes DC > Justice League,0
+701,Superman,695,695,1,False,Super Heroes DC > Superman,0
+702,Avengers,696,696,1,False,Super Heroes Marvel > Avengers,0
+704,Guardians of the Galaxy,696,696,1,False,Super Heroes Marvel > Guardians of the Galaxy,0
+705,Iron Man,696,696,1,False,Super Heroes Marvel > Iron Man,2
+100705,Iron Man (general),705,696,2,True,Super Heroes Marvel > Iron Man > Iron Man (general),0
+706,Spider-Man,696,696,1,False,Super Heroes Marvel > Spider-Man,2
+100706,Spider-Man (general),706,696,2,True,Super Heroes Marvel > Spider-Man > Spider-Man (general),0
+707,X-Men,696,696,1,False,Super Heroes Marvel > X-Men,0
+708,The LEGO Batman Movie,697,695,2,False,Super Heroes DC > Batman > The LEGO Batman Movie,0
+709,LEGO Art,0,709,0,False,LEGO Art,0
+710,Harry Potter,207,206,2,False,Seasonal > Advent > Harry Potter,0
+711,The LEGO Batman Movie Series 2,535,535,1,False,Collectible Minifigures > The LEGO Batman Movie Series 2,0
+712,Series 21 Minifigures,535,535,1,False,Collectible Minifigures > Series 21 Minifigures,0
+713,VIDIYO,0,713,0,False,VIDIYO,0
+714,Looney Tunes,535,535,1,False,Collectible Minifigures > Looney Tunes,0
+715,Marvel Series 1,535,535,1,False,Collectible Minifigures > Marvel Series 1,0
+716,Modulex,0,716,0,False,Modulex,0
+717,Speed Racer,0,717,0,False,Speed Racer,0
+718,Series 22 Minifigures,535,535,1,False,Collectible Minifigures > Series 22 Minifigures,0
+719,BrickLink Designer Program,0,719,0,False,BrickLink Designer Program,0
+720,The Muppets,535,535,1,False,Collectible Minifigures > The Muppets,0
+721,Icons,0,721,0,False,Icons,0
+722,Jurassic World,504,504,1,False,Duplo > Jurassic World,0
+724,Avatar,0,724,0,False,Avatar,0
+725,Series 23 Minifigures,535,535,1,False,Collectible Minifigures > Series 23 Minifigures,0
+728,McDonalds,598,598,1,False,Promotional > McDonalds,0
+729,Airlines,598,598,1,False,Promotional > Airlines,0
+730,Audio and Visual Media,501,501,1,False,Gear > Audio and Visual Media,0
+732,Clocks and Watches,501,501,1,False,Gear > Clocks and Watches,0
+733,Houseware,501,501,1,False,Gear > Houseware,0
+734,Magnets,501,501,1,False,Gear > Magnets,0
+736,Posters and Art Prints,501,501,1,False,Gear > Posters and Art Prints,0
+738,Seasonal,501,501,1,False,Gear > Seasonal,0
+739,Stationery and Office Supplies,501,501,1,False,Gear > Stationery and Office Supplies,0
+740,Storage,501,501,1,False,Gear > Storage,0
+741,Tabletop Games and Puzzles,501,501,1,False,Gear > Tabletop Games and Puzzles,0
+742,Video Games and Accessories,501,501,1,False,Gear > Video Games and Accessories,0
+743,Series 24 Minifigures,535,535,1,False,Collectible Minifigures > Series 24 Minifigures,0
+744,Stuntz,52,52,1,False,City > Stuntz,0
+745,Disney 100,535,535,1,False,Collectible Minifigures > Disney 100,0
+746,Database Sets,301,301,1,False,Other > Database Sets,0
+747,Sonic The Hedgehog,0,747,0,False,Sonic The Hedgehog,0
+748,Gabby's Dollhouse,0,748,0,False,Gabby's Dollhouse,0
+749,Dreamzzz,0,749,0,False,Dreamzzz,0
+750,Marvel Series 2,535,535,1,False,Collectible Minifigures > Marvel Series 2,0
+751,Marvel,207,206,2,False,Seasonal > Advent > Marvel,0
+752,Animal Crossing,0,752,0,False,Animal Crossing,0
+753,Series 25 Minifigures,535,535,1,False,Collectible Minifigures > Series 25 Minifigures,0
+755,Spidey and His Amazing Friends,706,696,2,False,Super Heroes Marvel > Spider-Man > Spidey and His Amazing Friends,0
+756,Samsonite,365,365,1,False,System > Samsonite,0
+757,Ideas Books,497,497,1,False,Books > Ideas Books,0
+758,Non-fiction Books,497,497,1,False,Books > Non-fiction Books,0
+759,Story Books,497,497,1,False,Books > Story Books,0
+761,Activity Books with LEGO Parts,497,497,1,False,Books > Activity Books with LEGO Parts,0
+762,Series 26 Minifigures,535,535,1,False,Collectible Minifigures > Series 26 Minifigures,0
+763,Despicable Me 4,0,763,0,False,Despicable Me 4,0
+764,The Legend of Zelda,0,764,0,False,The Legend of Zelda,0
+765,Wicked,0,765,0,False,Wicked,0
+766,Fortnite,0,766,0,False,Fortnite,0
+767,Dungeons & Dragons,535,535,1,False,Collectible Minifigures > Dungeons & Dragons,0
+768,Wednesday,0,768,0,False,Wednesday,0
+769,Botanicals,0,769,0,False,Botanicals,0
+770,Horizon Adventures,0,770,0,False,Horizon Adventures,0
+771,Series 27 Minifigures,535,535,1,False,Collectible Minifigures > Series 27 Minifigures,0
+772,Bluey,0,772,0,False,Bluey,0
+774,Formula 1,535,535,1,False,Collectible Minifigures > Formula 1,0
+775,One Piece,0,775,0,False,One Piece,0
+776,Pokémon,0,776,0,False,Pokémon,0
+778,VIP Add-On Packs,598,598,1,False,Promotional > VIP Add-On Packs,0
+779,Chinese (Lunar) New Year,206,206,1,False,Seasonal > Chinese (Lunar) New Year,0
+780,Disney,207,206,2,False,Seasonal > Advent > Disney,0
+781,The Infinity Saga,696,696,1,False,Super Heroes Marvel > The Infinity Saga,0
+782,Captain America,696,696,1,False,Super Heroes Marvel > Captain America,0
+783,Incredibles 2,591,591,1,False,Juniors > Incredibles 2,0
+784,Spider-Man - Across the Spider-Verse,535,535,1,False,Collectible Minifigures > Spider-Man - Across the Spider-Verse,0
+785,Nike,0,785,0,False,Nike,0
+786,Series 28 Minifigures,535,535,1,False,Collectible Minifigures > Series 28 Minifigures,0
+787,Editions,0,787,0,False,Editions,0
+788,Bluey,504,504,1,False,Duplo > Bluey,0
+789,Peppa Pig,504,504,1,False,Duplo > Peppa Pig,0
+790,Seasonal,504,504,1,False,Duplo > Seasonal,0
+791,Learning at Home,507,507,1,False,Educational and Dacta > Learning at Home,0
+792,KPop Demon Hunters,0,792,0,False,KPop Demon Hunters,0
+793,Space,52,52,1,False,City > Space,0
+794,Lightyear,608,608,1,False,Disney > Lightyear,0
+795,Series 29 Minifigures,535,535,1,False,Collectible Minifigures > Series 29 Minifigures,0
+796,Shrek,0,796,0,False,Shrek,0
+797,Iron Man and His Awesome Friends,705,696,2,False,Super Heroes Marvel > Iron Man > Iron Man and His Awesome Friends,0
+798,Shrek,535,535,1,False,Collectible Minifigures > Shrek,0
+799,Clothing & Footwear,501,501,1,False,Gear > Clothing & Footwear,0

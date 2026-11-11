@@ -1,0 +1,19 @@
+# Raw Rebrickable download (too large for GitHub; see preprocessing/rebrickable/README.md)
+preprocessing/rebrickable/*.csv
+preprocessing/rebrickable/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Deliverables are built at the end, not versioned
+*.mp4
+*.mkv
+CPIII-*.zip

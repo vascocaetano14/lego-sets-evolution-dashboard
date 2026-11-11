@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Evolution of LEGO Sets — Group 19</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:,">
+  <script src="lib/d3.v7.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body class="loading">
+
+  <div class="stage">
+  <header class="topbar">
+    <div class="title">
+
+      <svg class="logo" viewBox="0 0 40 40" aria-hidden="true">
+        <rect x="1" y="1" width="38" height="38" rx="3" fill="var(--brick)" stroke="var(--brick-dark)" stroke-width="2"/>
+        <g fill="var(--brick)" stroke="var(--brick-dark)" stroke-width="1.6">
+          <circle cx="12" cy="12" r="6"/><circle cx="28" cy="12" r="6"/>
+          <circle cx="12" cy="28" r="6"/><circle cx="28" cy="28" r="6"/>
+        </g>
+        <g fill="#fff" opacity="0.35"><circle cx="10.5" cy="10.5" r="2"/><circle cx="26.5" cy="10.5" r="2"/>
+          <circle cx="10.5" cy="26.5" r="2"/><circle cx="26.5" cy="26.5" r="2"/></g>
+      </svg>
+      <div>
+        <h1>The Evolution of LEGO Sets</h1>
+        <p>Rebrickable catalogue, 1949–2026 · Group 19</p>
+      </div>
+    </div>
+    <div class="controls">
+      <div id="period-control"></div>
+      <div id="theme-control"></div>
+    </div>
+  </header>
+
+  <main class="dashboard">
+    <section class="view" data-view="B" style="grid-area: b">
+      <header><h2>Theme hierarchy</h2></header>
+      <div class="view-body"></div>
+    </section>
+    <section class="view" data-view="A" style="grid-area: a">
+      <header><h2>Time</h2></header>
+      <div class="view-body"></div>
+    </section>
+    <section class="view" data-view="C" style="grid-area: c">
+      <header><h2>Parts × colours</h2></header>
+      <div class="view-body"></div>
+    </section>
+    <section class="view" data-view="D" style="grid-area: d">
+      <header><h2>Theme matrix</h2></header>
+      <div class="view-body"></div>
+    </section>
+  </main>
+  </div>
+</body>
+</html>

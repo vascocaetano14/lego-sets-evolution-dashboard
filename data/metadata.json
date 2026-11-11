@@ -1,0 +1,863 @@
+{
+ "years": [
+  1949,
+  2026
+ ],
+ "last_year_is_partial": true,
+ "decades": [
+  1950,
+  1960,
+  1970,
+  1980,
+  1990,
+  2000,
+  2010,
+  2020
+ ],
+ "n_sets": 20055,
+ "n_sets_with_inventory_parts": 19796,
+ "n_root_themes": 150,
+ "n_tree_nodes": 542,
+ "all_node_id": 0,
+ "general_node_offset": 100000,
+ "min_element_sets": 5,
+ "min_signature_lift": 2.0,
+ "part_categories": [
+  {
+   "key": "q_cat_14",
+   "id": 14,
+   "name": "Plates",
+   "piece": {
+    "part_num": "3023",
+    "name": "Plate 1 x 2",
+    "colour": "Black",
+    "img": "data/pieces/3023_0.jpg"
+   }
+  },
+  {
+   "key": "q_cat_11",
+   "id": 11,
+   "name": "Bricks",
+   "piece": {
+    "part_num": "3003",
+    "name": "Brick 2 x 2",
+    "colour": "Red",
+    "img": "data/pieces/3003_4.png"
+   }
+  },
+  {
+   "key": "q_cat_9",
+   "id": 9,
+   "name": "Plates Special",
+   "piece": {
+    "part_num": "15573",
+    "name": "Plate Special 1 x 2 with 1 Stud with Groove and Inside Stud Holder (Jumper)",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/15573_71.png"
+   }
+  },
+  {
+   "key": "q_cat_19",
+   "id": 19,
+   "name": "Tiles",
+   "piece": {
+    "part_num": "2431",
+    "name": "Tile 1 x 4 with Groove",
+    "colour": "Black",
+    "img": "data/pieces/2431_0.png"
+   }
+  },
+  {
+   "key": "q_cat_3",
+   "id": 3,
+   "name": "Bricks Sloped",
+   "piece": {
+    "part_num": "3039",
+    "name": "Brick Sloped 45\u00b0 2 x 2",
+    "colour": "Black",
+    "img": "data/pieces/3039_0.png"
+   }
+  },
+  {
+   "key": "q_cat_21",
+   "id": 21,
+   "name": "Plates Round Curved and Dishes",
+   "piece": {
+    "part_num": "6141",
+    "name": "Plate Round 1 x 1 with Solid Stud",
+    "colour": "Black",
+    "img": "data/pieces/6141_0.png"
+   }
+  },
+  {
+   "key": "q_cat_53",
+   "id": 53,
+   "name": "Technic Pins",
+   "piece": {
+    "part_num": "2780",
+    "name": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+    "colour": "Black",
+    "img": "data/pieces/2780_0.png"
+   }
+  },
+  {
+   "key": "q_cat_5",
+   "id": 5,
+   "name": "Bricks Special",
+   "piece": {
+    "part_num": "4070",
+    "name": "Brick Special 1 x 1 with Headlight",
+    "colour": "White",
+    "img": "data/pieces/4070_15.png"
+   }
+  },
+  {
+   "key": "q_cat_37",
+   "id": 37,
+   "name": "Bricks Curved",
+   "piece": {
+    "part_num": "11477",
+    "name": "Brick Curved 2 x 1 No Studs [1/2 Bow]",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/11477_71.png"
+   }
+  },
+  {
+   "key": "q_cat_67",
+   "id": 67,
+   "name": "Tiles Round and Curved",
+   "piece": {
+    "part_num": "27925",
+    "name": "Tile 2 x 2 Curved, Macaroni",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/27925_71.png"
+   }
+  },
+  {
+   "key": "q_cat_20",
+   "id": 20,
+   "name": "Bricks Round and Cones",
+   "piece": {
+    "part_num": "3062b",
+    "name": "Brick Round 1 x 1 Open Stud",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/3062b_71.png"
+   }
+  },
+  {
+   "key": "q_cat_15",
+   "id": 15,
+   "name": "Tiles Special",
+   "piece": {
+    "part_num": "2412b",
+    "name": "Tile Special 1 x 2 Grille with Bottom Groove",
+    "colour": "Reddish Brown",
+    "img": "data/pieces/2412b_70.png"
+   }
+  },
+  {
+   "key": "q_cat_12",
+   "id": 12,
+   "name": "Technic Connectors",
+   "piece": {
+    "part_num": "59443",
+    "name": "Technic Axle Connector Smooth [with x Hole + Orientation]",
+    "colour": "Black",
+    "img": "data/pieces/59443_0.png"
+   }
+  },
+  {
+   "key": "q_cat_51",
+   "id": 51,
+   "name": "Technic Beams",
+   "piece": {
+    "part_num": "32524",
+    "name": "Technic Beam 1 x 7 Thick",
+    "colour": "Black",
+    "img": "data/pieces/32524_0.png"
+   }
+  },
+  {
+   "key": "q_cat_46",
+   "id": 46,
+   "name": "Technic Axles",
+   "piece": {
+    "part_num": "32062",
+    "name": "Technic Axle 2 Notched",
+    "colour": "Red",
+    "img": "data/pieces/32062_4.png"
+   }
+  },
+  {
+   "key": "q_cat_4",
+   "id": 4,
+   "name": "Duplo, Quatro and Primo",
+   "piece": {
+    "part_num": "3437",
+    "name": "Duplo Brick 2 x 2",
+    "colour": "Red",
+    "img": "data/pieces/3437_4.png"
+   }
+  },
+  {
+   "key": "q_cat_8",
+   "id": 8,
+   "name": "Technic Bricks",
+   "piece": {
+    "part_num": "32000",
+    "name": "Technic Brick 1 x 2 [2 Pin Holes]",
+    "colour": "Dark Bluish Gray",
+    "img": "data/pieces/32000_72.png"
+   }
+  },
+  {
+   "key": "q_cat_76",
+   "id": 76,
+   "name": "Plants & Trees",
+   "piece": {
+    "part_num": "2423",
+    "name": "Plant, Leaves 4 x 3",
+    "colour": "Green",
+    "img": "data/pieces/2423_2.png"
+   }
+  },
+  {
+   "key": "q_cat_32",
+   "id": 32,
+   "name": "Bars, Ladders and Fences",
+   "piece": {
+    "part_num": "63965",
+    "name": "Bar 6L with Stop Ring",
+    "colour": "Black",
+    "img": "data/pieces/63965_0.png"
+   }
+  },
+  {
+   "key": "q_cat_29",
+   "id": 29,
+   "name": "Wheels and Tyres",
+   "piece": {
+    "part_num": "4185",
+    "name": "Technic Wedge Belt Wheel [aka Pulley]",
+    "colour": "Light Gray",
+    "img": "data/pieces/4185_7.png"
+   }
+  },
+  {
+   "key": "q_cat_49",
+   "id": 49,
+   "name": "Plates Wedged",
+   "piece": {
+    "part_num": "43722",
+    "name": "Wedge Plate 3 x 2 Right",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/43722_71.png"
+   }
+  },
+  {
+   "key": "q_cat_18",
+   "id": 18,
+   "name": "Hinges, Arms and Turntables",
+   "piece": {
+    "part_num": "73983",
+    "name": "Hinge Plate 1 x 4 Swivel Top / Base - Solid Clip [Complete Assembly]",
+    "colour": "Black",
+    "img": "data/pieces/73983_0.png"
+   }
+  },
+  {
+   "key": "q_cat_16",
+   "id": 16,
+   "name": "Windows and Doors",
+   "piece": {
+    "part_num": "60592",
+    "name": "Window 1 x 2 x 2 Flat Front",
+    "colour": "White",
+    "img": "data/pieces/60592_15.png"
+   }
+  },
+  {
+   "key": "q_cat_27",
+   "id": 27,
+   "name": "Minifig Accessories",
+   "piece": {
+    "part_num": "3899",
+    "name": "Equipment Cup / Mug [Plain]",
+    "colour": "Red",
+    "img": "data/pieces/3899_4.png"
+   }
+  },
+  {
+   "key": "q_cat_23",
+   "id": 23,
+   "name": "Panels",
+   "piece": {
+    "part_num": "4865b",
+    "name": "Panel 1 x 2 x 1 [Rounded Corners]",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/4865b_71.png"
+   }
+  },
+  {
+   "key": "q_cat_6",
+   "id": 6,
+   "name": "Bricks Wedged",
+   "piece": {
+    "part_num": "2462",
+    "name": "Brick Wedged 3 x 3 Facet",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/2462_71.png"
+   }
+  },
+  {
+   "key": "q_cat_54",
+   "id": 54,
+   "name": "Technic Bushes",
+   "piece": {
+    "part_num": "3713",
+    "name": "Technic Bush",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/3713_71.png"
+   }
+  },
+  {
+   "key": "q_cat_26",
+   "id": 26,
+   "name": "Technic Special",
+   "piece": {
+    "part_num": "3711a",
+    "name": "Technic Link",
+    "colour": "Black",
+    "img": "data/pieces/3711a_0.jpg"
+   }
+  },
+  {
+   "key": "q_cat_36",
+   "id": 36,
+   "name": "Transportation - Land",
+   "piece": {
+    "part_num": "3829c01",
+    "name": "Steering Stand 1 x 2 with Black Steering Wheel",
+    "colour": "White",
+    "img": "data/pieces/3829c01_15.png"
+   }
+  },
+  {
+   "key": "q_cat_73",
+   "id": 73,
+   "name": "Minifig Shields, Weapons, & Tools",
+   "piece": {
+    "part_num": "21459",
+    "name": "Weapon Sword / Katana / Shamshir with Capped Pommel [Square Guard]",
+    "colour": "Pearl Gold",
+    "img": "data/pieces/21459_297.png"
+   }
+  },
+  {
+   "key": "q_cat_52",
+   "id": 52,
+   "name": "Technic Gears",
+   "piece": {
+    "part_num": "94925",
+    "name": "Technic Gear 16 Tooth Reinforced [New Style]",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/94925_71.png"
+   }
+  },
+  {
+   "key": "q_cat_75",
+   "id": 75,
+   "name": "Animal / Creature Body Parts",
+   "piece": {
+    "part_num": "53451",
+    "name": "Animal Body Part, Barb / Claw / Tooth / Talon / Horn, Small",
+    "colour": "White",
+    "img": "data/pieces/53451_15.png"
+   }
+  },
+  {
+   "key": "q_cat_41",
+   "id": 41,
+   "name": "Large Buildable Figures",
+   "piece": {
+    "part_num": "90609",
+    "name": "Large Figure Skeletal, Limb, 5L with Ball Joint on Axle and Ball Socket",
+    "colour": "Black",
+    "img": "data/pieces/90609_0.png"
+   }
+  },
+  {
+   "key": "q_cat_40",
+   "id": 40,
+   "name": "Technic Panels",
+   "piece": {
+    "part_num": "71682",
+    "name": "Technic Panel Fairing 2 x 3 x 1",
+    "colour": "Black",
+    "img": "data/pieces/71682_0.png"
+   }
+  },
+  {
+   "key": "q_cat_7",
+   "id": 7,
+   "name": "Containers",
+   "piece": {
+    "part_num": "2489",
+    "name": "Barrel 2 x 2 x 2",
+    "colour": "Reddish Brown",
+    "img": "data/pieces/2489_70.png"
+   }
+  },
+  {
+   "key": "q_cat_60",
+   "id": 60,
+   "name": "Minifig Upper Body",
+   "piece": {
+    "part_num": "93061",
+    "name": "Arm Skeleton Bent with Clips at 90\u00b0 [Vertical Grip]",
+    "colour": "White",
+    "img": "data/pieces/93061_15.png"
+   }
+  },
+  {
+   "key": "q_cat_25",
+   "id": 25,
+   "name": "Technic Steering, Suspension and Engine",
+   "piece": {
+    "part_num": "2851",
+    "name": "Technic Engine Piston Round",
+    "colour": "Yellow",
+    "img": "data/pieces/2851_14.png"
+   }
+  },
+  {
+   "key": "q_cat_35",
+   "id": 35,
+   "name": "Transportation - Sea and Air",
+   "piece": {
+    "part_num": "2479",
+    "name": "Propeller 4 Blade 5 Diameter with Rounded Ends, Open Hub",
+    "colour": "Black",
+    "img": "data/pieces/2479_0.png"
+   }
+  },
+  {
+   "key": "q_cat_38",
+   "id": 38,
+   "name": "Flags, Banners and Signs",
+   "piece": {
+    "part_num": "4495b",
+    "name": "Flag 4 x 1 Wavy [First Wave Right]",
+    "colour": "Green",
+    "img": "data/pieces/4495b_2.png"
+   }
+  },
+  {
+   "key": "q_cat_68",
+   "id": 68,
+   "name": "Projectiles / Launchers",
+   "piece": {
+    "part_num": "15303",
+    "name": "Projectile, Spring Shooter Ammunition 8L Bar",
+    "colour": "Trans-Red",
+    "img": "data/pieces/15303_36.png"
+   }
+  },
+  {
+   "key": "q_cat_47",
+   "id": 47,
+   "name": "Windscreens and Fuselage",
+   "piece": {
+    "part_num": "3823",
+    "name": "Windscreen 2 x 4 x 2",
+    "colour": "Trans-Clear",
+    "img": "data/pieces/3823_47.png"
+   }
+  },
+  {
+   "key": "q_cat_28",
+   "id": 28,
+   "name": "Animals / Creatures",
+   "piece": {
+    "part_num": "30103",
+    "name": "Animal, Bat",
+    "colour": "Black",
+    "img": "data/pieces/30103_0.png"
+   }
+  },
+  {
+   "key": "q_cat_31",
+   "id": 31,
+   "name": "String, Bands and Reels",
+   "piece": {
+    "part_num": "92338",
+    "name": "Chain 6L [5 Links]",
+    "colour": "Dark Bluish Gray",
+    "img": "data/pieces/92338_72.png"
+   }
+  },
+  {
+   "key": "q_cat_30",
+   "id": 30,
+   "name": "Tubes and Hoses",
+   "piece": {
+    "part_num": "78c09",
+    "name": "Hose, Ribbed 7mm D. 9L / 7.2cm",
+    "colour": "Black",
+    "img": "data/pieces/78c09_0.jpg"
+   }
+  },
+  {
+   "key": "q_cat_69",
+   "id": 69,
+   "name": "Energy Effects",
+   "piece": {
+    "part_num": "64647",
+    "name": "Flame / Headwear Accessory Plume / Feather, Triple Point",
+    "colour": "Trans-Orange",
+    "img": "data/pieces/64647_182.png"
+   }
+  },
+  {
+   "key": "q_cat_33",
+   "id": 33,
+   "name": "Rock",
+   "piece": {
+    "part_num": "30385",
+    "name": "Rock 1 x 1 Crystal 5 Point",
+    "colour": "Pearl Gold",
+    "img": "data/pieces/30385_297.png"
+   }
+  },
+  {
+   "key": "q_cat_34",
+   "id": 34,
+   "name": "Supports, Girders and Cranes",
+   "piece": {
+    "part_num": "95347",
+    "name": "Support 2 x 2 x 10 Girder Triangular Vertical - Type 4 - 3 Posts, 3 Sections",
+    "colour": "Black",
+    "img": "data/pieces/95347_0.png"
+   }
+  },
+  {
+   "key": "q_cat_17",
+   "id": 17,
+   "name": "Gear Parts",
+   "piece": {
+    "part_num": "759532",
+    "name": "Storage Case Divider, 13.5 x 5.5cm",
+    "colour": "Bright Light Orange",
+    "img": "data/pieces/759532_191.jpg"
+   }
+  },
+  {
+   "key": "q_cat_58",
+   "id": 58,
+   "name": "Stickers",
+   "piece": {
+    "part_num": "stickerupn0038",
+    "name": "Sticker Sheet for Sets 2964-1, 2965-1, 5316-1, 6817-1, 6837-1, 6903-1, 6905-1, 6907-1, 6909-1, 6919-1, 6969-1, 6977-1",
+    "colour": "[No Color/Any Color]",
+    "img": "data/pieces/stickerupn0038_9999.jpg"
+   }
+  },
+  {
+   "key": "q_cat_55",
+   "id": 55,
+   "name": "Technic Beams Special",
+   "piece": {
+    "part_num": "64179",
+    "name": "Technic Beam Frame 5 x 7 with 3 x 5 Opening Thick",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/64179_71.png"
+   }
+  },
+  {
+   "key": "q_cat_65",
+   "id": 65,
+   "name": "Minifig Headwear",
+   "piece": {
+    "part_num": "4485",
+    "name": "Hat / Cap Long Peak [Plain]",
+    "colour": "Red",
+    "img": "data/pieces/4485_4.jpg"
+   }
+  },
+  {
+   "key": "q_cat_48",
+   "id": 48,
+   "name": "Clikits",
+   "piece": {
+    "part_num": "45463",
+    "name": "Clikits Icon, Star 2 x 2 Small with Pin [Frosted]",
+    "colour": "Aqua",
+    "img": "data/pieces/45463_118.jpg"
+   }
+  },
+  {
+   "key": "q_cat_42",
+   "id": 42,
+   "name": "Belville, Scala and Fabuland",
+   "piece": {
+    "part_num": "30112c",
+    "name": "Belville, Equipment, Bow Small",
+    "colour": "Medium Dark Pink",
+    "img": "data/pieces/30112c_351.jpg"
+   }
+  },
+  {
+   "key": "q_cat_59",
+   "id": 59,
+   "name": "Minifig Heads",
+   "piece": {
+    "part_num": "3626apr0001",
+    "name": "Minifig Head Standard Grin Print [Solid Stud]",
+    "colour": "Yellow",
+    "img": "data/pieces/3626apr0001_14.png"
+   }
+  },
+  {
+   "key": "q_cat_45",
+   "id": 45,
+   "name": "Electronics",
+   "piece": {
+    "part_num": "74747",
+    "name": "Vehicle Track, Train, 9V Curved",
+    "colour": "Dark Gray",
+    "img": "data/pieces/74747_8.png"
+   }
+  },
+  {
+   "key": "q_cat_78",
+   "id": 78,
+   "name": "Pen & Watch",
+   "piece": {
+    "part_num": "upn0389",
+    "name": "Watch, Link",
+    "colour": "Black",
+    "img": "data/pieces/upn0389_0.jpg"
+   }
+  },
+  {
+   "key": "q_cat_57",
+   "id": 57,
+   "name": "Non-Buildable Figures (Duplo, Fabuland, etc)",
+   "piece": {
+    "part_num": "47511pr0001",
+    "name": "Duplo Figure Child with Cap Lime, with White Shirt under Blue Coveralls with worms in Pocket - Blue Legs",
+    "colour": "White",
+    "img": "data/pieces/47511pr0001_15.jpg"
+   }
+  },
+  {
+   "key": "q_cat_66",
+   "id": 66,
+   "name": "Modulex",
+   "piece": {
+    "part_num": "1121L",
+    "name": "Modulex Brick 1 x 2 with LEGO on Stud",
+    "colour": "Modulex White",
+    "img": "data/pieces/1121L_1013.jpg"
+   }
+  },
+  {
+   "key": "q_cat_22",
+   "id": 22,
+   "name": "Pneumatics",
+   "piece": {
+    "part_num": "4697b",
+    "name": "Pneumatic T-Piece (T Bar) [New Style]",
+    "colour": "Light Bluish Gray",
+    "img": "data/pieces/4697b_71.png"
+   }
+  },
+  {
+   "key": "q_cat_61",
+   "id": 61,
+   "name": "Minifig Lower Body",
+   "piece": {
+    "part_num": "970c28",
+    "name": "Hips and Blue Legs",
+    "colour": "Blue",
+    "img": "data/pieces/970c28_1.jpg"
+   }
+  },
+  {
+   "key": "q_cat_56",
+   "id": 56,
+   "name": "Tools",
+   "piece": {
+    "part_num": "96874",
+    "name": "Brick and Axle Separator v2.0",
+    "colour": "Orange",
+    "img": "data/pieces/96874_25.png"
+   }
+  },
+  {
+   "key": "q_cat_71",
+   "id": 71,
+   "name": "Minifig Neckwear",
+   "piece": {
+    "part_num": "50231",
+    "name": "Neckwear Cape, Standard [Traditional Starched Fabric]",
+    "colour": "Black",
+    "img": "data/pieces/50231_0.png"
+   }
+  },
+  {
+   "key": "q_cat_1",
+   "id": 1,
+   "name": "Baseplates",
+   "piece": {
+    "part_num": "3867",
+    "name": "Baseplate 16 x 16",
+    "colour": "Green",
+    "img": "data/pieces/3867_2.png"
+   }
+  },
+  {
+   "key": "q_cat_72",
+   "id": 72,
+   "name": "Minifig Headwear Accessories",
+   "piece": {
+    "part_num": "2447",
+    "name": "Headwear Accessory Visor For Standard Helmet",
+    "colour": "Trans-Brown",
+    "img": "data/pieces/2447_40.jpg"
+   }
+  },
+  {
+   "key": "q_cat_39",
+   "id": 39,
+   "name": "Magnets and Holders",
+   "piece": {
+    "part_num": "90754",
+    "name": "Brick Magnet 2 x 4 with Round Plate 2 x 2",
+    "colour": "Dark Bluish Gray",
+    "img": "data/pieces/90754_72.png"
+   }
+  },
+  {
+   "key": "q_cat_43",
+   "id": 43,
+   "name": "Znap",
+   "piece": {
+    "part_num": "32212",
+    "name": "Znap Connector 1 x 3 - 2 way A",
+    "colour": "Light Gray",
+    "img": "data/pieces/32212_7.png"
+   }
+  },
+  {
+   "key": "q_cat_13",
+   "id": 13,
+   "name": "Minifigs",
+   "piece": {
+    "part_num": "90398",
+    "name": "Minifig Trophy Statuette",
+    "colour": "Pearl Gold",
+    "img": "data/pieces/90398_297.png"
+   }
+  },
+  {
+   "key": "q_cat_74",
+   "id": 74,
+   "name": "Animal / Creature Accessories",
+   "piece": {
+    "part_num": "4491b",
+    "name": "Animal / Creature Accessory, Saddle [Two Clips]",
+    "colour": "Dark Bluish Gray",
+    "img": "data/pieces/4491b_72.png"
+   }
+  },
+  {
+   "key": "q_cat_77",
+   "id": 77,
+   "name": "Non-System Parts",
+   "piece": {
+    "part_num": "14119",
+    "name": "Roof, Carousel, Section",
+    "colour": "Blue",
+    "img": "data/pieces/14119_1.jpg"
+   }
+  },
+  {
+   "key": "q_cat_50",
+   "id": 50,
+   "name": "HO Scale",
+   "piece": {
+    "part_num": "722",
+    "name": "HO Scale Accessory Door for Garage 4 x 8 x 3",
+    "colour": "Light Gray",
+    "img": "data/pieces/722_7.png"
+   }
+  },
+  {
+   "key": "q_cat_44",
+   "id": 44,
+   "name": "Mechanical",
+   "piece": {
+    "part_num": "12799",
+    "name": "Pullback Motor 6 x 3 x 5",
+    "colour": "Dark Bluish Gray",
+    "img": "data/pieces/12799_72.png"
+   }
+  },
+  {
+   "key": "q_cat_24",
+   "id": 24,
+   "name": "Other",
+   "piece": {
+    "part_num": "77814",
+    "name": "Pendant, Heart",
+    "colour": "Dark Purple",
+    "img": "data/pieces/77814_85.jpg"
+   }
+  },
+  {
+   "key": "q_cat_70",
+   "id": 70,
+   "name": "Minifig Hipwear",
+   "piece": {
+    "part_num": "65753",
+    "name": "Minifig Hipwear Skirt Short, Angular",
+    "colour": "Black",
+    "img": "data/pieces/65753_0.png"
+   }
+  },
+  {
+   "key": "q_cat_62",
+   "id": 62,
+   "name": "Minidoll Heads",
+   "piece": {
+    "part_num": "92198pr0125",
+    "name": "Minidoll Head with Green Eyes, Freckles, Smile Print",
+    "colour": "Light Nougat",
+    "img": "data/pieces/92198pr0125_78.jpg"
+   }
+  },
+  {
+   "key": "q_cat_64",
+   "id": 64,
+   "name": "Minidoll Lower Body",
+   "piece": {
+    "part_num": "16925c01pr0009",
+    "name": "Minidoll Hips and Trousers with Back Pockets and Black Shoes print",
+    "colour": "Dark Blue",
+    "img": "data/pieces/16925c01pr0009_272.jpg"
+   }
+  },
+  {
+   "key": "q_cat_63",
+   "id": 63,
+   "name": "Minidoll Upper Body",
+   "piece": {
+    "part_num": "92456c01pr0379",
+    "name": "Minidoll Torso Girl, Lavender Dress, Laces, Bow Tie",
+    "colour": "Light Nougat",
+    "img": "data/pieces/92456c01pr0379_78.jpg"
+   }
+  }
+ ]
+}
